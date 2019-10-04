@@ -1,0 +1,351 @@
+{
+    "embed_resource": {
+    },
+    "project_media_info": {
+        "order_list": {
+            "My Album": 0
+        },
+        "project_media_folder": {
+            "My Album": [
+                "{4fb40e58-6182-454f-a0ff-f32f5c45409d}",
+                "{6fb4268e-1330-4b8d-86ab-658be2a83a54}",
+                "{41fcd7f4-89db-4018-8943-515f43f2f9e3}",
+                "{3192c4f3-c72e-4e8e-a4d4-40b59d77d175}",
+                "{6b7447f5-7d52-4732-a8de-dbab25dc5668}",
+                "{d7ac506a-97a9-4593-83b1-daf17a022b05}",
+                "{b9e826da-7337-494d-a87a-09341aec9d74}",
+                "{7534a5ec-ecfe-4762-a8e2-825efb983d73}",
+                "{88db8654-c5fb-4531-b7fc-224888b9760b}",
+                "{b006bfce-0eeb-4df4-ac93-e63ce9bb31b8}",
+                "{fb854c78-4729-41ab-8f6b-f4ce97dd2af9}",
+                "{0cfcfbbc-9e66-4c4b-aca7-7f14d465215d}",
+                "{09f8cac4-cce8-40ad-91e3-3644526f397b}",
+                "{4de9a849-86e7-436e-8fd6-bf69450bb609}",
+                "{996cda5c-dd60-43e0-abcb-cd8a566c7607}",
+                "{3b6f89e1-bd73-4a53-be2d-aa18a7b8301b}",
+                "{400040be-2400-41f1-815a-e750d78fbf09}",
+                "{06ff2868-a375-463c-8b14-c0c153d65467}",
+                "{d74ebaa5-d910-4495-9e4d-53de28cf41f6}",
+                "{c3793815-2a5a-4613-99b8-ee6f52f82c5b}",
+                "{df24ff20-07cc-4156-b9da-c1606a75dfa3}",
+                "{b7fecb48-c821-4c15-a362-bdf07ca886c4}",
+                "{ef9a4aaa-42a9-4b04-9b31-f57f32d10ed3}",
+                "{a84d9a1e-a82b-4ac7-b220-34d3d4d9e020}",
+                "{2faafc9c-6a3d-4017-a6ef-c587768cf147}",
+                "{26e59fde-4224-4e06-8219-23cf9caaeb88}",
+                "{c0e01569-2b61-47f5-9666-e8f6b5240b07}",
+                "{4e18b8ab-3323-40ab-93a1-3314806f4986}",
+                "{ee8991cb-234f-4eaa-ae5a-3237ac5054e9}",
+                "{133d0da4-f037-48b1-96b1-59356a2887db}",
+                "{5cdfba0c-ebe4-45f4-954f-1fcf2b433139}",
+                "{c2728f2f-9e9a-48cd-937f-24c46b2fc5bc}",
+                "{42452996-7002-4c4b-9b60-4c7953003845}",
+                "{e7345e1a-c47d-4e4e-b1ef-6f66a363f137}",
+                "{de34f239-9a52-4d46-8b30-677c857b1fd2}",
+                "{a537a8b8-4ce9-4a39-8b74-6a130c90e052}",
+                "{d73cb4d7-0c49-4196-86cf-8419bf41fee3}",
+                "{9cb9f55f-f04e-4289-b44f-a7e6c0234bf2}",
+                "{7ca1d4a9-eb59-44ab-b385-65f65022bce3}",
+                "{a3c29e13-2650-454e-80b9-958c0a2c2209}",
+                "{c6c71cfb-4454-4a3c-8311-a84ac1e244b0}",
+                "{08517047-e151-4b69-a868-db78f08b7eeb}",
+                "{a9922c40-e59e-447e-be96-635c1ccada5a}",
+                "{86e62243-c03d-4c66-bde8-48c3b3ec95a5}",
+                "{36ce1a4c-d3a8-45d2-96ee-0457673e73a5}",
+                "{8e4888e3-647c-4026-960c-6fc5843fa6ff}",
+                "{4ab4c1fe-4096-4f1e-b89f-b62ae2820dfb}",
+                "{1e146558-c678-4697-aeed-bbcedb803cf2}"
+            ]
+        }
+    },
+    "resources": {
+        "{06ff2868-a375-463c-8b14-c0c153d65467}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-10-03.mp4",
+            "id": "{06ff2868-a375-463c-8b14-c0c153d65467}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-10-03"
+        },
+        "{08517047-e151-4b69-a868-db78f08b7eeb}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第八段.mp4",
+            "id": "{08517047-e151-4b69-a868-db78f08b7eeb}",
+            "key_timeline_type": 3,
+            "name": "第八段"
+        },
+        "{09f8cac4-cce8-40ad-91e3-3644526f397b}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-42-37.mp4",
+            "id": "{09f8cac4-cce8-40ad-91e3-3644526f397b}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-42-37"
+        },
+        "{0cfcfbbc-9e66-4c4b-aca7-7f14d465215d}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-35-32.mp4",
+            "id": "{0cfcfbbc-9e66-4c4b-aca7-7f14d465215d}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-35-32"
+        },
+        "{133d0da4-f037-48b1-96b1-59356a2887db}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-14-22.mp4",
+            "id": "{133d0da4-f037-48b1-96b1-59356a2887db}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-14-22"
+        },
+        "{1e146558-c678-4697-aeed-bbcedb803cf2}": {
+            "download_url": "C:/Users/xiaoyaowudi/Downloads/y2mate.com - the_periodic_table_song_2018_update_rz4Dd1I_fX0_1080p (1).mp4",
+            "id": "{1e146558-c678-4697-aeed-bbcedb803cf2}",
+            "key_timeline_type": 3,
+            "name": "y2mate.com - the_periodic_table_song_2018_update_rz4Dd1I_fX0_1080p (1)"
+        },
+        "{26e59fde-4224-4e06-8219-23cf9caaeb88}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-50-01.mp4",
+            "id": "{26e59fde-4224-4e06-8219-23cf9caaeb88}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-50-01"
+        },
+        "{2faafc9c-6a3d-4017-a6ef-c587768cf147}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-48-13.mp4",
+            "id": "{2faafc9c-6a3d-4017-a6ef-c587768cf147}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-48-13"
+        },
+        "{3192c4f3-c72e-4e8e-a4d4-40b59d77d175}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-35-08.mov",
+            "id": "{3192c4f3-c72e-4e8e-a4d4-40b59d77d175}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-35-08"
+        },
+        "{36ce1a4c-d3a8-45d2-96ee-0457673e73a5}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/补录.mp4",
+            "id": "{36ce1a4c-d3a8-45d2-96ee-0457673e73a5}",
+            "key_timeline_type": 3,
+            "name": "补录"
+        },
+        "{3b6f89e1-bd73-4a53-be2d-aa18a7b8301b}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-58-53.mp4",
+            "id": "{3b6f89e1-bd73-4a53-be2d-aa18a7b8301b}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-58-53"
+        },
+        "{400040be-2400-41f1-815a-e750d78fbf09}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-02-20.mp4",
+            "id": "{400040be-2400-41f1-815a-e750d78fbf09}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-02-20"
+        },
+        "{41fcd7f4-89db-4018-8943-515f43f2f9e3}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 16-46-55.mov",
+            "id": "{41fcd7f4-89db-4018-8943-515f43f2f9e3}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 16-46-55"
+        },
+        "{42452996-7002-4c4b-9b60-4c7953003845}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-21-53.mp4",
+            "id": "{42452996-7002-4c4b-9b60-4c7953003845}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-21-53"
+        },
+        "{4ab4c1fe-4096-4f1e-b89f-b62ae2820dfb}": {
+            "download_url": "C:/Users/xiaoyaowudi/Downloads/AsapSCIENCE - The Periodic Table Song (Instrumental).mp3",
+            "id": "{4ab4c1fe-4096-4f1e-b89f-b62ae2820dfb}",
+            "key_timeline_type": 2,
+            "name": "AsapSCIENCE - The Periodic Table Song (Instrumental)"
+        },
+        "{4de9a849-86e7-436e-8fd6-bf69450bb609}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-45-29.mp4",
+            "id": "{4de9a849-86e7-436e-8fd6-bf69450bb609}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-45-29"
+        },
+        "{4e18b8ab-3323-40ab-93a1-3314806f4986}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-06-54.mp4",
+            "id": "{4e18b8ab-3323-40ab-93a1-3314806f4986}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-06-54"
+        },
+        "{4fb40e58-6182-454f-a0ff-f32f5c45409d}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 16-28-03.mov",
+            "id": "{4fb40e58-6182-454f-a0ff-f32f5c45409d}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 16-28-03"
+        },
+        "{5cdfba0c-ebe4-45f4-954f-1fcf2b433139}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-15-41.mp4",
+            "id": "{5cdfba0c-ebe4-45f4-954f-1fcf2b433139}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-15-41"
+        },
+        "{6b7447f5-7d52-4732-a8de-dbab25dc5668}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-37-18.mov",
+            "id": "{6b7447f5-7d52-4732-a8de-dbab25dc5668}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-37-18"
+        },
+        "{6fb4268e-1330-4b8d-86ab-658be2a83a54}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 16-33-14.mov",
+            "id": "{6fb4268e-1330-4b8d-86ab-658be2a83a54}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 16-33-14"
+        },
+        "{7534a5ec-ecfe-4762-a8e2-825efb983d73}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-50-35.mov",
+            "id": "{7534a5ec-ecfe-4762-a8e2-825efb983d73}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-50-35"
+        },
+        "{7ca1d4a9-eb59-44ab-b385-65f65022bce3}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第九段.mp4",
+            "id": "{7ca1d4a9-eb59-44ab-b385-65f65022bce3}",
+            "key_timeline_type": 3,
+            "name": "第九段"
+        },
+        "{86e62243-c03d-4c66-bde8-48c3b3ec95a5}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第四段.mp4",
+            "id": "{86e62243-c03d-4c66-bde8-48c3b3ec95a5}",
+            "key_timeline_type": 3,
+            "name": "第四段"
+        },
+        "{88db8654-c5fb-4531-b7fc-224888b9760b}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-56-06.mp4",
+            "id": "{88db8654-c5fb-4531-b7fc-224888b9760b}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-56-06"
+        },
+        "{8e4888e3-647c-4026-960c-6fc5843fa6ff}": {
+            "download_url": "F:/七（6）中队_1920x1080.mp4",
+            "id": "{8e4888e3-647c-4026-960c-6fc5843fa6ff}",
+            "key_timeline_type": 3,
+            "name": "七（6）中队_1920x1080"
+        },
+        "{996cda5c-dd60-43e0-abcb-cd8a566c7607}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-56-37.mp4",
+            "id": "{996cda5c-dd60-43e0-abcb-cd8a566c7607}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-56-37"
+        },
+        "{9cb9f55f-f04e-4289-b44f-a7e6c0234bf2}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第三段.mp4",
+            "id": "{9cb9f55f-f04e-4289-b44f-a7e6c0234bf2}",
+            "key_timeline_type": 3,
+            "name": "第三段"
+        },
+        "{a3c29e13-2650-454e-80b9-958c0a2c2209}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第二段.mp4",
+            "id": "{a3c29e13-2650-454e-80b9-958c0a2c2209}",
+            "key_timeline_type": 3,
+            "name": "第二段"
+        },
+        "{a537a8b8-4ce9-4a39-8b74-6a130c90e052}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第一段.mp4",
+            "id": "{a537a8b8-4ce9-4a39-8b74-6a130c90e052}",
+            "key_timeline_type": 3,
+            "name": "第一段"
+        },
+        "{a84d9a1e-a82b-4ac7-b220-34d3d4d9e020}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-46-17.mp4",
+            "id": "{a84d9a1e-a82b-4ac7-b220-34d3d4d9e020}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-46-17"
+        },
+        "{a9922c40-e59e-447e-be96-635c1ccada5a}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第六段.mp4",
+            "id": "{a9922c40-e59e-447e-be96-635c1ccada5a}",
+            "key_timeline_type": 3,
+            "name": "第六段"
+        },
+        "{b006bfce-0eeb-4df4-ac93-e63ce9bb31b8}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-57-22.mp4",
+            "id": "{b006bfce-0eeb-4df4-ac93-e63ce9bb31b8}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-57-22"
+        },
+        "{b7fecb48-c821-4c15-a362-bdf07ca886c4}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-37-07.mp4",
+            "id": "{b7fecb48-c821-4c15-a362-bdf07ca886c4}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-37-07"
+        },
+        "{b9e826da-7337-494d-a87a-09341aec9d74}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-50-12.mov",
+            "id": "{b9e826da-7337-494d-a87a-09341aec9d74}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-50-12"
+        },
+        "{c0e01569-2b61-47f5-9666-e8f6b5240b07}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-57-42.mp4",
+            "id": "{c0e01569-2b61-47f5-9666-e8f6b5240b07}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-57-42"
+        },
+        "{c2728f2f-9e9a-48cd-937f-24c46b2fc5bc}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-21-35.mp4",
+            "id": "{c2728f2f-9e9a-48cd-937f-24c46b2fc5bc}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-21-35"
+        },
+        "{c3793815-2a5a-4613-99b8-ee6f52f82c5b}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-22-18.mp4",
+            "id": "{c3793815-2a5a-4613-99b8-ee6f52f82c5b}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-22-18"
+        },
+        "{c6c71cfb-4454-4a3c-8311-a84ac1e244b0}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第五段.mp4",
+            "id": "{c6c71cfb-4454-4a3c-8311-a84ac1e244b0}",
+            "key_timeline_type": 3,
+            "name": "第五段"
+        },
+        "{d73cb4d7-0c49-4196-86cf-8419bf41fee3}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第七段.mp4",
+            "id": "{d73cb4d7-0c49-4196-86cf-8419bf41fee3}",
+            "key_timeline_type": 3,
+            "name": "第七段"
+        },
+        "{d74ebaa5-d910-4495-9e4d-53de28cf41f6}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-20-18.mp4",
+            "id": "{d74ebaa5-d910-4495-9e4d-53de28cf41f6}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-20-18"
+        },
+        "{d7ac506a-97a9-4593-83b1-daf17a022b05}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 18-40-21.mov",
+            "id": "{d7ac506a-97a9-4593-83b1-daf17a022b05}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 18-40-21"
+        },
+        "{de34f239-9a52-4d46-8b30-677c857b1fd2}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第11段.mp4",
+            "id": "{de34f239-9a52-4d46-8b30-677c857b1fd2}",
+            "key_timeline_type": 3,
+            "name": "第11段"
+        },
+        "{df24ff20-07cc-4156-b9da-c1606a75dfa3}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-34-54.mp4",
+            "id": "{df24ff20-07cc-4156-b9da-c1606a75dfa3}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-34-54"
+        },
+        "{e7345e1a-c47d-4e4e-b1ef-6f66a363f137}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/第10段.mp4",
+            "id": "{e7345e1a-c47d-4e4e-b1ef-6f66a363f137}",
+            "key_timeline_type": 3,
+            "name": "第10段"
+        },
+        "{ee8991cb-234f-4eaa-ae5a-3237ac5054e9}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 21-11-52.mp4",
+            "id": "{ee8991cb-234f-4eaa-ae5a-3237ac5054e9}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 21-11-52"
+        },
+        "{ef9a4aaa-42a9-4b04-9b31-f57f32d10ed3}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 20-39-18.mp4",
+            "id": "{ef9a4aaa-42a9-4b04-9b31-f57f32d10ed3}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 20-39-18"
+        },
+        "{fb854c78-4729-41ab-8f6b-f4ce97dd2af9}": {
+            "download_url": "C:/Users/xiaoyaowudi/Desktop/录/2019-05-15 19-30-58.mp4",
+            "id": "{fb854c78-4729-41ab-8f6b-f4ce97dd2af9}",
+            "key_timeline_type": 3,
+            "name": "2019-05-15 19-30-58"
+        }
+    }
+}

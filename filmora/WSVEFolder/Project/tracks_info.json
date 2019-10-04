@@ -1,0 +1,54 @@
+{
+    "audio_tracks": [
+        {
+            "key_audio_azimuth": 0,
+            "key_audio_balance": 0,
+            "key_audio_elevation": 0,
+            "key_audio_use_surround": false,
+            "key_audio_volume": 0,
+            "key_track_height": 56,
+            "key_track_level": 1000,
+            "key_track_locked": false,
+            "key_track_type": 2,
+            "key_track_visibled": true
+        },
+        {
+            "key_audio_azimuth": 0,
+            "key_audio_balance": 0,
+            "key_audio_elevation": 0,
+            "key_audio_use_surround": false,
+            "key_audio_volume": 0,
+            "key_track_height": 56,
+            "key_track_level": 1001,
+            "key_track_locked": false,
+            "key_track_type": 2,
+            "key_track_visibled": true
+        },
+        {
+            "key_audio_azimuth": 0,
+            "key_audio_balance": 0,
+            "key_audio_elevation": 0,
+            "key_audio_use_surround": false,
+            "key_audio_volume": 0,
+            "key_track_height": 56,
+            "key_track_level": 1002,
+            "key_track_locked": false,
+            "key_track_type": 2,
+            "key_track_visibled": true
+        }
+    ],
+    "video_tracks": [
+        {
+            "key_audio_azimuth": 0,
+            "key_audio_balance": 0,
+            "key_audio_elevation": 0,
+            "key_audio_use_surround": false,
+            "key_audio_volume": 0,
+            "key_track_height": 106,
+            "key_track_level": 0,
+            "key_track_locked": false,
+            "key_track_type": 1,
+            "key_track_visibled": true
+        }
+    ]
+}

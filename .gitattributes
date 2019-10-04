@@ -1,0 +1,2 @@
+FinalVersion[[:space:]]_1280x720.mp4 filter=lfs diff=lfs merge=lfs -text
+FinalVersion_1920x1080.mp4 filter=lfs diff=lfs merge=lfs -text

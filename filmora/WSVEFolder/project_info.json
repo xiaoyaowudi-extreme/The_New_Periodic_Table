@@ -1,0 +1,23 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2019-05-19 18:17:55.000",
+    "document_create_version": "9.0.0",
+    "document_default_animation": "",
+    "document_duration": 9838,
+    "document_framerate": 59.940059661865234,
+    "document_modify_date": "2019-05-19 18:19:38.000",
+    "document_name": "Final_Music_Video",
+    "document_new_version": "9.0.0",
+    "document_project_archive": false,
+    "document_project_guid": "554bf784-5476-49b0-aff7-f6c0ae9c088f",
+    "document_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "document_type_name": "wfp",
+    "document_used_pack_name": [
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}
